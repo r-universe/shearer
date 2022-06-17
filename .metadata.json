@@ -1,0 +1,14 @@
+[
+  {
+    "package": "PropCIs",
+    "oncran": true
+  },
+  {
+    "package": "samplesize",
+    "oncran": true
+  },
+  {
+    "package": "simboot",
+    "oncran": true
+  }
+]
