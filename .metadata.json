@@ -4,11 +4,11 @@
     "oncran": true
   },
   {
-    "package": "samplesize",
+    "package": "simboot",
     "oncran": true
   },
   {
-    "package": "simboot",
+    "package": "samplesize",
     "oncran": true
   }
 ]

@@ -8,13 +8,13 @@
 	url = https://github.com/shearer/propcis
 	shallow = true
 	registered = true
-[submodule "samplesize"]
-	path = samplesize
-	url = https://github.com/shearer/samplesize
-	shallow = true
-	registered = true
 [submodule "simboot"]
 	path = simboot
 	url = https://github.com/shearer/simboot
+	shallow = true
+	registered = true
+[submodule "samplesize"]
+	path = samplesize
+	url = https://github.com/shearer/samplesize
 	shallow = true
 	registered = true
