@@ -1,20 +1,13 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "PropCIs"]
 	path = PropCIs
 	url = https://github.com/shearer/propcis
-	shallow = true
-	registered = true
 [submodule "samplesize"]
 	path = samplesize
 	url = https://github.com/shearer/samplesize
-	shallow = true
-	registered = true
 [submodule "simboot"]
 	path = simboot
 	url = https://github.com/shearer/simboot
-	shallow = true
-	registered = true
